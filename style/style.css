@@ -1,0 +1,17 @@
+header {
+   background-color: rgba(0, 0, 0, 0.192);
+}
+.hero-img {
+   background-image: url("./img/hero.png");
+   background-size: cover;
+   background-position: center;
+   background-attachment: fixed;
+   background-repeat: no-repeat;
+   text-align: center;
+   height: 550px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+   color: white;
+}
